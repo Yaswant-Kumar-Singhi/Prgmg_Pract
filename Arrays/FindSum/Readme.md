@@ -56,6 +56,7 @@ Time Complexity : O(N)
 ```
 Approach-2 : Using C++ library accumulate by which we can quickly find the sum of array elements.
 
+For more info on accumulate go to https://medium.com/@singhiyaswant/what-is-accumulate-44133cc22ec6  
 ```
  
 
