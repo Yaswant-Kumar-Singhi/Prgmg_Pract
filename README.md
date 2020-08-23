@@ -13,8 +13,8 @@ This will have solutions with explanations from differnt platforms for your prac
 ```
 ### When you should contribute?
 ```
-1. If you feel to add questions that are relevant and should be done as a programer
-2. If your solution are faster that mine then please contribute
-3. If you have same algo that I have but with fewer number of lines then please contribute
-4. If you can code in different languages other than the solution then please contribute
+1. If you feel to add questions that are relevant and should be done as a programer.
+2. If your solution are faster that mine then please contribute.
+3. If you have same algo that I have but with fewer number of lines then please contribute.
+4. If you can code in different languages other than the solution then please contribute.
 ```
