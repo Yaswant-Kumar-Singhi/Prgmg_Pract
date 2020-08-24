@@ -8,7 +8,7 @@ This will have solutions with explanations from differnt platforms for your prac
 2. Clone it to your system or work online 
 3. if using system,in the terminal run git remote add upstream https://github.com/Yaswant-Kumar-Singhi/Prgmg_Pract.git (this is for taking a fresh update of the code anytime in the future)
 4. Do the desired changes (add/delete/modify)
-5. Comit your changes and push to your forked repository
+5. Comit your changes and push to your forked repository.
 3. Make a pull request.
 ```
 ### When you should contribute?
