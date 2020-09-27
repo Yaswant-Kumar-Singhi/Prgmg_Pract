@@ -59,5 +59,5 @@ Psuedocode:
 3. Run a loop from start to end
 4. start filling the array from both end till the ith index is not equal to end
 5. if ith index is equal to end then add the number to arr[end]
-6. Return the array.
+6. Return the array
 ```
